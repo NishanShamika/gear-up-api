@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\gear-up-api.props" />
+</Project>

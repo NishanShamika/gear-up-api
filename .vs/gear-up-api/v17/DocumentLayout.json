@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Gear Up\\gear-up-api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE52EA3B-3CB7-4912-BE17-19D8F70507B2}|gear-up-api\\gear-up-api.csproj|d:\\gear up\\gear-up-api\\gear-up-api\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE52EA3B-3CB7-4912-BE17-19D8F70507B2}|gear-up-api\\gear-up-api.csproj|solutionrelative:gear-up-api\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE52EA3B-3CB7-4912-BE17-19D8F70507B2}|gear-up-api\\gear-up-api.csproj|d:\\gear up\\gear-up-api\\gear-up-api\\services\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE52EA3B-3CB7-4912-BE17-19D8F70507B2}|gear-up-api\\gear-up-api.csproj|solutionrelative:gear-up-api\\services\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE52EA3B-3CB7-4912-BE17-19D8F70507B2}|gear-up-api\\gear-up-api.csproj|d:\\gear up\\gear-up-api\\gear-up-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AE52EA3B-3CB7-4912-BE17-19D8F70507B2}|gear-up-api\\gear-up-api.csproj|solutionrelative:gear-up-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE52EA3B-3CB7-4912-BE17-19D8F70507B2}|gear-up-api\\gear-up-api.csproj|d:\\gear up\\gear-up-api\\gear-up-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE52EA3B-3CB7-4912-BE17-19D8F70507B2}|gear-up-api\\gear-up-api.csproj|solutionrelative:gear-up-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE52EA3B-3CB7-4912-BE17-19D8F70507B2}|gear-up-api\\gear-up-api.csproj|d:\\gear up\\gear-up-api\\gear-up-api\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE52EA3B-3CB7-4912-BE17-19D8F70507B2}|gear-up-api\\gear-up-api.csproj|solutionrelative:gear-up-api\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE52EA3B-3CB7-4912-BE17-19D8F70507B2}|gear-up-api\\gear-up-api.csproj|d:\\gear up\\gear-up-api\\gear-up-api\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE52EA3B-3CB7-4912-BE17-19D8F70507B2}|gear-up-api\\gear-up-api.csproj|solutionrelative:gear-up-api\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE52EA3B-3CB7-4912-BE17-19D8F70507B2}|gear-up-api\\gear-up-api.csproj|d:\\gear up\\gear-up-api\\gear-up-api\\repositories\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE52EA3B-3CB7-4912-BE17-19D8F70507B2}|gear-up-api\\gear-up-api.csproj|solutionrelative:gear-up-api\\repositories\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE52EA3B-3CB7-4912-BE17-19D8F70507B2}|gear-up-api\\gear-up-api.csproj|d:\\gear up\\gear-up-api\\gear-up-api\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE52EA3B-3CB7-4912-BE17-19D8F70507B2}|gear-up-api\\gear-up-api.csproj|solutionrelative:gear-up-api\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE52EA3B-3CB7-4912-BE17-19D8F70507B2}|gear-up-api\\gear-up-api.csproj|d:\\gear up\\gear-up-api\\gear-up-api\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE52EA3B-3CB7-4912-BE17-19D8F70507B2}|gear-up-api\\gear-up-api.csproj|solutionrelative:gear-up-api\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Gear Up\\gear-up-api\\gear-up-api\\Program.cs",
+              "RelativeDocumentMoniker": "gear-up-api\\Program.cs",
+              "ToolTip": "D:\\Gear Up\\gear-up-api\\gear-up-api\\Program.cs",
+              "RelativeToolTip": "gear-up-api\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T04:56:49.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Gear Up\\gear-up-api\\gear-up-api\\appsettings.json",
+              "RelativeDocumentMoniker": "gear-up-api\\appsettings.json",
+              "ToolTip": "D:\\Gear Up\\gear-up-api\\gear-up-api\\appsettings.json",
+              "RelativeToolTip": "gear-up-api\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-15T05:00:26.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "D:\\Gear Up\\gear-up-api\\gear-up-api\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "gear-up-api\\Controllers\\OrderController.cs",
+              "ToolTip": "D:\\Gear Up\\gear-up-api\\gear-up-api\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "gear-up-api\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABoAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T04:34:31.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "D:\\Gear Up\\gear-up-api\\gear-up-api\\Services\\IOrderService.cs",
+              "RelativeDocumentMoniker": "gear-up-api\\Services\\IOrderService.cs",
+              "ToolTip": "D:\\Gear Up\\gear-up-api\\gear-up-api\\Services\\IOrderService.cs",
+              "RelativeToolTip": "gear-up-api\\Services\\IOrderService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T16:37:05.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "D:\\Gear Up\\gear-up-api\\gear-up-api\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "gear-up-api\\Services\\OrderService.cs",
+              "ToolTip": "D:\\Gear Up\\gear-up-api\\gear-up-api\\Services\\OrderService.cs",
+              "RelativeToolTip": "gear-up-api\\Services\\OrderService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABrAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T16:37:17.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\Gear Up\\gear-up-api\\gear-up-api\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "gear-up-api\\Models\\Order.cs",
+              "ToolTip": "D:\\Gear Up\\gear-up-api\\gear-up-api\\Models\\Order.cs",
+              "RelativeToolTip": "gear-up-api\\Models\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T13:35:22.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "D:\\Gear Up\\gear-up-api\\gear-up-api\\Repositories\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "gear-up-api\\Repositories\\IOrderRepository.cs",
+              "ToolTip": "D:\\Gear Up\\gear-up-api\\gear-up-api\\Repositories\\IOrderRepository.cs",
+              "RelativeToolTip": "gear-up-api\\Repositories\\IOrderRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T17:16:17.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "D:\\Gear Up\\gear-up-api\\gear-up-api\\Repositories\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "gear-up-api\\Repositories\\OrderRepository.cs",
+              "ToolTip": "D:\\Gear Up\\gear-up-api\\gear-up-api\\Repositories\\OrderRepository.cs",
+              "RelativeToolTip": "gear-up-api\\Repositories\\OrderRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T16:31:23.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\Gear Up\\gear-up-api\\gear-up-api\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "gear-up-api\\Repositories\\UserRepository.cs",
+              "ToolTip": "D:\\Gear Up\\gear-up-api\\gear-up-api\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "gear-up-api\\Repositories\\UserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T11:06:50.494Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
